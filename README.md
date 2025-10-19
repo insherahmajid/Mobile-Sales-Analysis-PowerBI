@@ -80,4 +80,44 @@ OpenStreetMap & Bing Maps| Geo-visuals for city-wise sales |
 
 
 
-## 📁 Project Structure
+📁 Project Structure
+ Mobile-Sales-Analysis-PowerBI
+│
+├── README.md
+├── dashboard/
+│   └── project1.pbix
+├── reports/
+│   └── project1.pdf
+└── images/
+    └──mobile_sales_data.png
+
+
+---
+
+## 📄 Files
+Power BI Dashboard File: [Download `.pbix`](project1.pbix)  
+Dashboard Report (PDF): [View PDF Report](project1.pdf)
+ Preview Image:![Dashboard Preview](mobile_sales_data.png)
+
+
+
+## 📚 Learnings
+- Developed hands-on expertise in "Power BI dashboard design".  
+- Applied "data modeling and DAX calculations" effectively.  
+- Enhanced ability to communicate insights visually and clearly.  
+
+
+ Author
+ Insherah Majid  
+ B.Tech in Information Technology  
+ Aspiring Data Analyst | 💡 Passionate about Data Visualization  
+ Srinagar, Kashmir  
+
+🔗 [LinkedIn](#) (add your link here)  
+
+
+
+"Created as part of my Data Analytics portfolio to demonstrate Power BI skills and storytelling with data."
+.pdf)  
+
+
