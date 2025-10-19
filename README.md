@@ -95,9 +95,9 @@ OpenStreetMap & Bing Maps| Geo-visuals for city-wise sales |
 ---
 
 ## 📄 Files
-Power BI Dashboard File: [Download `.pbix`](project1.pbix)  
-Dashboard Report (PDF): [View PDF Report](project1.pdf)
- Preview Image:![Dashboard Preview](mobile_sales_data.png)
+Power BI Dashboard File: [Download `.pbix`](dashboard/project1.pbix)  
+Dashboard Report (PDF): [View PDF Report](Reports/project1.pdf)
+Preview Image:![Dashboard Preview](Image/mobile_sales_data.png)
 
 
 
