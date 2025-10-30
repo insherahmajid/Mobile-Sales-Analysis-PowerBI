@@ -113,8 +113,8 @@ Preview Image:![Dashboard Preview](Image/mobile_sales_data.png)
  Aspiring Data Analyst | 💡 Passionate about Data Visualization  
  Srinagar, Kashmir  
 
-🔗 [LinkedIn](#) (add your link here)  
-
+🔗 [LinkedIn](#) (www.linkedin.com/in/insherah-majid-146496317)  
+ [gmail](insherahmajid81@gmail.com)
 
 
 "Created as part of my Data Analytics portfolio to demonstrate Power BI skills and storytelling with data."
